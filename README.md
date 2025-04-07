@@ -1,7 +1,8 @@
 # CaptureTheFlag
-This repository serves as a comprehensive resource for cybersecurity enthusiasts, ethical hackers, and CTF players looking to sharpen their skills in various domains of cybersecurity.
-It contains write-ups, tools, scripts, and solutions for challenges from Hack The Box 
-What You’ll Find Here
+<b>This repository serves as a comprehensive resource for cybersecurity enthusiasts, ethical hackers, and CTF players looking to sharpen their skills in various domains of cybersecurity.
+It contains write-ups, tools, scripts, and solutions for challenges from Hack The Box.</b>
+<n></n>
+<b> What You’ll Find Here </b>
 Challenge Write-Ups : Detailed step-by-step explanations of how each challenge was solved, covering categories like:
 Cryptography
 Web Exploitation
